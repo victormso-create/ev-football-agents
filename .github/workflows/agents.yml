@@ -11,6 +11,7 @@ permissions:
 jobs:
   run-agents:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -38,6 +39,11 @@ jobs:
           SPORTS: ${{ secrets.SPORTS || 'soccer_epl,soccer_spain_la_liga,soccer_portugal_primeira_liga' }}
         run: |
           python agents/fetch_odds.py
+
+      # NOVO: construir matches.csv a partir de odds_raw.csv
+      - name: Build matches from odds
+        run: |
+          python agents/build_matches_from_odds.py
 
       - name: Build model (Poisson baseline)
         run: |
