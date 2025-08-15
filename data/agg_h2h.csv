@@ -1,11 +1,11 @@
 league,commence_time,home,away,avg_home,avg_draw,avg_away,best_home,best_draw,best_away,ts
-soccer_epl,2025-08-15T19:00:00Z,Liverpool,Bournemouth,,6.199285714285712,,,6.65,,2025-08-15T18:55:20.778319Z
-soccer_epl,2025-08-16T11:30:00Z,Aston Villa,Newcastle United,,3.621904761904762,,,3.85,,2025-08-15T18:55:20.778337Z
-soccer_epl,2025-08-16T14:00:00Z,Brighton and Hove Albion,Fulham,,3.6745238095238104,,,3.85,,2025-08-15T18:55:20.778362Z
-soccer_epl,2025-08-16T14:00:00Z,Tottenham Hotspur,Burnley,,4.828095238095237,,,5.1,,2025-08-15T18:55:20.778368Z
-soccer_epl,2025-08-16T14:00:00Z,Sunderland,West Ham United,,3.367142857142857,,,3.5,,2025-08-15T18:55:20.778372Z
-soccer_epl,2025-08-16T16:30:00Z,Wolverhampton Wanderers,Manchester City,,4.8429268292682925,,,5.2,,2025-08-15T18:55:20.778377Z
-soccer_epl,2025-08-17T13:00:00Z,Nottingham Forest,Brentford,,3.350952380952382,,,3.54,,2025-08-15T18:55:20.778382Z
-soccer_epl,2025-08-17T13:00:00Z,Chelsea,Crystal Palace,,4.227857142857141,,,4.5,,2025-08-15T18:55:20.778387Z
-soccer_epl,2025-08-17T15:30:00Z,Manchester United,Arsenal,,3.7551219512195124,,,3.95,,2025-08-15T18:55:20.778391Z
-soccer_epl,2025-08-18T19:00:00Z,Leeds United,Everton,,3.361794871794873,,,3.5,,2025-08-15T18:55:20.778396Z
+soccer_epl,2025-08-15T19:00:00Z,Liverpool,Bournemouth,,4.6875,,,5.5,,2025-08-15T19:26:54.109554Z
+soccer_epl,2025-08-16T11:30:00Z,Aston Villa,Newcastle United,,3.636190476190476,,,3.85,,2025-08-15T19:26:54.109566Z
+soccer_epl,2025-08-16T14:00:00Z,Brighton and Hove Albion,Fulham,,3.68609756097561,,,3.85,,2025-08-15T19:26:54.109569Z
+soccer_epl,2025-08-16T14:00:00Z,Tottenham Hotspur,Burnley,,4.836585365853657,,,5.1,,2025-08-15T19:26:54.109571Z
+soccer_epl,2025-08-16T14:00:00Z,Sunderland,West Ham United,,3.3760975609756096,,,3.5,,2025-08-15T19:26:54.109574Z
+soccer_epl,2025-08-16T16:30:00Z,Wolverhampton Wanderers,Manchester City,,4.8665,,,5.2,,2025-08-15T19:26:54.109576Z
+soccer_epl,2025-08-17T13:00:00Z,Nottingham Forest,Brentford,,3.359512195121952,,,3.54,,2025-08-15T19:26:54.109578Z
+soccer_epl,2025-08-17T13:00:00Z,Chelsea,Crystal Palace,,4.24560975609756,,,4.5,,2025-08-15T19:26:54.109580Z
+soccer_epl,2025-08-17T15:30:00Z,Manchester United,Arsenal,,3.7652500000000004,,,3.95,,2025-08-15T19:26:54.109585Z
+soccer_epl,2025-08-18T19:00:00Z,Leeds United,Everton,,3.3641025641025655,,,3.5,,2025-08-15T19:26:54.109589Z
